@@ -1,4 +1,3 @@
-package kafka
 
 import groovy.beans.Bindable
 import groovy.json.JsonOutput
